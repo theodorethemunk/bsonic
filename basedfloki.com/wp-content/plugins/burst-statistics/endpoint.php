@@ -1,1 +1,0 @@
-No Content: https://basedfloki.com/wp-content/plugins/burst-statistics/endpoint.php
